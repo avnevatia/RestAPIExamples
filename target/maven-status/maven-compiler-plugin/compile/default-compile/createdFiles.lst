@@ -1,0 +1,13 @@
+com\ce\rest\processor\FolderDetails.class
+com\ce\rest\Util\MultipartUtility.class
+com\ce\rest\processor\FolderTransfer.class
+com\ce\rest\processor\UploadFile.class
+com\ce\rest\service\TransferFolderService.class
+com\ce\rest\processor\DownloadFile.class
+com\ce\rest\processor\FileTransfer.class
+com\ce\rest\Util\Constants.class
+com\ce\rest\processor\FetchDirectoryStructure.class
+com\ce\rest\Util\Utillity.class
+com\ce\rest\processor\CreateDirectoryStructure.class
+com\ce\rest\service\TransferFileService.class
+com\ce\rest\service\UploadFileService.class
