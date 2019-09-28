@@ -1,0 +1,8 @@
+# Compiled class file
+/target/
+
+#library folder
+/lib/
+
+# Log file
+*.log
